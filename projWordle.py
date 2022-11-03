@@ -1,7 +1,5 @@
 #Name: Addie Murphy
 #Class: CSC 110
-#Assignment: Programming Project Design
-#Due Date: 4/1/22
 
 #Program Title: Wordle
 
